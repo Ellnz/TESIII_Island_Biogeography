@@ -17,7 +17,7 @@ A collection of HD replacers for most flora textures and smaller flora meshes (b
 ### 03 Rock Rollout
 Rock model replacers based upon Nich's Seamless UV rocks replacer. These rocks have the aforementioned UV fixes, as well as improved collision meshes and some slight (so tasteful) smoothing around the most jagged parts.
 
-### 04 LTex Override
+### 04 Ltex Override
 A complete re-work of Otis_Geo's Vanilla Land, designed to be even more analogous with vanilla designs and colours. Intended to be installed over Intelligent Textures. Also downscales the textures from 2048x to 1024. Designed to be used alongside  HD Tamriel Data's Ltex textures.
 
 ## New Zealand Plants:
