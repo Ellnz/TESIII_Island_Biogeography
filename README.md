@@ -1,4 +1,4 @@
-# Vvardenfell - Habitats
+# Vvardenfell - Ecology
 A compilation of replacers that focus on the wilderness (both biotic and abiotic!) of Vvardenfell.
 
 ### Prerequisites:
@@ -25,7 +25,7 @@ As I am a New Zealand ecologist, numerous indigenous plants from Aotearoa have m
 - Metrosideros robusta (northern rata) -> tx_leaves_02 (AI leaves bright)
 - Fuscospora cliffortioides (mountain beech) -> tx_leaves_01 (AI leaves dark)
 - Phyllocladus trichomanoides (Tanekaha) -> tx_leaves_03 (AI bush)
-- Syzygium maire (Swamp maire) -> ash tam leaf
+- Syzygium maire (Swamp maire) -> ash yam leaf
 - Coprosma tenuifolium -> black anther leaf, willow anther leaf
 - Libocedrus plumosa (Kawaka)-> chokeweed
 - Rhabdothamnus solandri (taurepo) -> gold kanet flowers
